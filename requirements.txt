@@ -1,0 +1,6 @@
+matplotlib==3.4.3
+PyQt5==5.15.4
+pywin32-ctypes==0.2.0
+keyboard==0.13.5
+pymorphy2==0.9.1
+pymorphy2-dicts-ru==2.4.417127.4579844
